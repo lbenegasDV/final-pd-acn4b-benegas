@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sala-azul",
+    "nombre": "Sala Azul",
+    "capacidad": 6,
+    "ubicacion": "Piso 1 - Sector A"
+  },
+  {
+    "id": "sala-verde",
+    "nombre": "Sala Verde",
+    "capacidad": 4,
+    "ubicacion": "Piso 1 - Sector B"
+  },
+  {
+    "id": "sala-roja",
+    "nombre": "Sala Roja",
+    "capacidad": 10,
+    "ubicacion": "Piso 2 - Sector Reuniones"
+  },
+  {
+    "id": "sala-focus",
+    "nombre": "Focus Room",
+    "capacidad": 2,
+    "ubicacion": "Piso 2 - Cabinas"
+  }
+]
