@@ -410,6 +410,7 @@ Backend:
 Frontend:
     ```text
     http://localhost:5173
+    ```
 
 4. **Probar la aplicación**
 
